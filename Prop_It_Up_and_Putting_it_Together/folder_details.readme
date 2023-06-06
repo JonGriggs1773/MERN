@@ -1,0 +1,10 @@
+
+
+This folder is setup as a reference to the basics of how to handle props and 
+components in the future. You can find how to import component in with React.
+You will also find how to extend Components from your class. Also you will find
+hoe that data is translated. 
+
+Main Files:
+1. /src/App.js
+2. /src/components/PersonCard.js

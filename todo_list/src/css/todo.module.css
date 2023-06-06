@@ -1,0 +1,21 @@
+
+.list {
+    width: 350px;
+    margin: 0 auto;
+    font-size: x-large;
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    height: 30px;
+    width: auto;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.allTodos {
+    border: dotted black 3px;
+    width: 300px;
+}
